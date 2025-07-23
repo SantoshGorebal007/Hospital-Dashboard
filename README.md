@@ -4,12 +4,34 @@ This project is a comprehensive Power BI, where I build a complete Hospital Mana
 
 ## Project Components
 
-- **Overview Dashboard**
-- **Hospital Dashboard**
-- **Doctor Dashboard**
-- **Patient Dashboard**
-- **Finance Dashboard**
-- **Staff Dashboard**
+**Overview Dashboard**  
+<img src="Images/All Background Images/Group 15 (15).png" alt="Overview Dashboard" width="300"/>
+
+**Hospital Dashboard**  
+<img src="Images/All Background Images/Hospital Page.png" alt="Hospital Dashboard" width="300"/>
+
+**Doctor Dashboard**  
+<img src="Images/Doctor Images/8487370.png" alt="Doctor Dashboard" width="300"/>
+
+**Patient Dashboard**  
+<img src="Images/All Background Images/Patient Page Background.png" alt="Patient Dashboard" width="300"/>
+
+**Finance Dashboard**  
+<img src="Images/All Background Images/Group 16 (10).png" alt="Finance Dashboard" width="300"/>
+
+**Staff Dashboard**  
+<img src="Images/All Background Images/Group 17 (3).png" alt="Staff Dashboard" width="300"/>
+
+
+## Technologies Used
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" title="Figma"/>
+</p>
 
 ## Technologies Used
 
@@ -26,7 +48,16 @@ This project is a comprehensive Power BI, where I build a complete Hospital Mana
 - `MySQL Database - Dump File/`: SQL files for database setup
 - `Python App - Excel Uploader/`: Python scripts and templates for uploading Excel data
 
-## What this project about?
+## What is this project about?
+
+## Project Components
+
+**Overview Dashboard**
+**Hospital Dashboard**
+**Doctor Dashboard**
+**Patient Dashboard**
+**Finance Dashboard**
+**Staff Dashboard**
 
 This project is about :
 - Power BI 
